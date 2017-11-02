@@ -39,7 +39,7 @@ class Console:
     def read_line(self):
         
         text = input()
-        self._last_line_le
+        # self._reset_line_len()
         
         return text
     
